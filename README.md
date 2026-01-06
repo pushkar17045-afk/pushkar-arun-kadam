@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Pushkar%20Arun%20Kadam&fontSize=34&fontColor=ffffff" />
+</p>
+
 <div align="center">
 
 # Pushkar Arun Kadam
