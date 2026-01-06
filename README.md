@@ -25,7 +25,7 @@ incremental exploration.
 A programming exploration focused on reinforcing core logic
 and correctness.
 
-🔗 https://github.com/YOUR_USERNAME/fundamentals-practice
+🔗 https://github.com/pushkar17045-afk/fundamentals-practice
 
 ---
 
