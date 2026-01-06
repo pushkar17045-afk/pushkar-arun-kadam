@@ -16,7 +16,7 @@ Shah & Anchor Kutchhi Engineering College, Mumbai
 This repository represents my **academic and technical portfolio**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pushkar17045-afk&theme=dark&hide_border=true" />
+  <img src="https://img.shields.io/github/last-commit/pushkar17045-afk/fundamentals-practice?style=flat-square" />
 </p>
 
 My work focuses on understanding **programming fundamentals, system logic,
