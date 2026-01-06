@@ -15,10 +15,6 @@ Shah & Anchor Kutchhi Engineering College, Mumbai
 
 This repository represents my **academic and technical portfolio**.
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/pushkar17045-afk/fundamentals-practice?style=flat-square" />
-</p>
-
 My work focuses on understanding **programming fundamentals, system logic,
 and electronics-based analysis** through structured exploration and
 incremental implementation.
