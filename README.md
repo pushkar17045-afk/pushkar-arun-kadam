@@ -1,72 +1,98 @@
+<div align="center">
+
 # Pushkar Arun Kadam
 
-### Undergraduate | Electronics & Computer Science  
+**Electronics & Computer Science · Undergraduate**  
 Shah & Anchor Kutchhi Engineering College, Mumbai
 
----
-
-## Overview
-This repository serves as my academic portfolio.
-
-I am an undergraduate student exploring the intersection of programming,
-system logic, and electronics-based analysis. My learning is shaped through
-coursework, hands-on experiments, and structured exploration.
-
-This portfolio reflects how I approach systems — with emphasis on
-fundamentals, clarity, and incremental understanding.
+</div>
 
 ---
 
-## Tools & Technologies
+## ✦ Overview
 
-**Programming**  
-Python · Java · C · C++ · JavaScript  
+This space serves as my **academic and technical portfolio**.
 
-**Web & Application Basics**  
-HTML · CSS · Bootstrap  
+I am an undergraduate student exploring the intersection of **programming,
+system logic, and electronics-based analysis**.  
+My focus is on understanding systems from their fundamentals.
 
-**Databases & Backend Tools**  
-MySQL · Firebase · XAMPP  
-
-**Electronics & Simulation**  
-LTSpice · MATLAB · ThingSpeak  
+This portfolio reflects how I learn, build, and reason about technical systems.
 
 ---
 
-## Selected Work
+## ✦ Tools & Technologies
 
-### IoT Data Visualization with ThingSpeak
-Implemented a basic data monitoring flow to visualize sensor data on a cloud
-platform. The focus was on understanding data transmission, channel
-configuration, and real-time representation.
-
----
-
-### Database-Backed Web Application
-Developed a small web application to understand backend workflows, database
-interaction, and frontend-backend integration using a local server environment.
-
----
-
-### Electronic Circuit Simulation
-Explored circuit behavior through simulation-based analysis, observing voltage,
-current, and parameter variations using electronic simulation tools.
-
----
-
-### Programming Practice & Logic Building
-A collection of structured programming exercises focused on strengthening
-fundamentals, logic design, and debugging across multiple languages.
+<table>
+<tr>
+<td><b>Programming</b></td>
+<td>Python · Java · C · C++ · JavaScript</td>
+</tr>
+<tr>
+<td><b>Web Basics</b></td>
+<td>HTML · CSS · Bootstrap</td>
+</tr>
+<tr>
+<td><b>Databases & Backend</b></td>
+<td>MySQL · Firebase · XAMPP</td>
+</tr>
+<tr>
+<td><b>Electronics & Simulation</b></td>
+<td>LTSpice · MATLAB · ThingSpeak</td>
+</tr>
+</table>
 
 ---
 
-## Learning Approach
-I value conceptual clarity over rapid accumulation of tools. My approach
-involves breaking systems into components, understanding their role, and
-integrating them into a coherent workflow.
+## ✦ Selected Work
 
-This portfolio is intentionally evolutionary and reflects my current stage of
-learning.
+### ▸ IoT Data Visualization with ThingSpeak
+A basic implementation of sensor data monitoring using a cloud platform.  
+Focused on understanding **data transmission, channel configuration,
+and real-time visualization**.
+
+---
+
+### ▸ Database-Backed Web Application
+A small web application developed to understand **backend workflows and
+database interaction**, using a local server environment.
+
+---
+
+### ▸ Electronic Circuit Simulation
+Exploration of electronic circuit behavior using simulation-based analysis,
+observing **voltage, current, and parameter variations**.
+
+---
+
+### ▸ Programming Practice & Logic Building
+A structured set of programming exercises aimed at strengthening:
+- Core logic
+- Debugging skills
+- Language fundamentals
+
+---
+
+## ✦ Learning Approach
+
+I prioritize **conceptual clarity over rapid accumulation of tools**.
+
+My approach involves:
+- Breaking systems into components  
+- Understanding their individual roles  
+- Integrating them into a coherent workflow  
+
+This portfolio is intentionally **evolutionary**, reflecting my current stage
+of learning.
+
+---
+
+<div align="center">
+
+**Academic Portfolio**  
+© Pushkar Arun Kadam
+
+</div>learning.
 
 ---
 
