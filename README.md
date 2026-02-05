@@ -72,7 +72,7 @@ This portfolio reflects an evolving academic learning process.
 Academic Portfolio  
 © Pushkar Arun Kadam
 
-</div>and correctness.
+</div>
 
 🔗 https://github.com/pushkar17045-afk/fundamentals-practice
 
